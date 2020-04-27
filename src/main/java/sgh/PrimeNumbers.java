@@ -1,5 +1,3 @@
-package sgh;
-
 package pl.waw.student;
 public class PrimesTest {
     public static void primes(int n) {
