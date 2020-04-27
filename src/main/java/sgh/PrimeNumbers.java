@@ -15,7 +15,7 @@ public class PrimesTest {
     }
 
     public static void main(String[] args) {
-      primes(9);
+      primes(4);
     }
     public static int nastepnaLiczbaPierwsza(int liczba){
         int wynik = liczba+1;
@@ -30,9 +30,5 @@ public class PrimesTest {
             }
         }
         return wynik;
-    }
-}
-    public static void main(String[] args) {
-        primes(4);
     }
 }
