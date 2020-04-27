@@ -1,4 +1,4 @@
-package pl.waw.student;
+package sgh;
 public class PrimesTest {
     public static void primes(int n) {
         int liczbaPierwsza = 1;
